@@ -1,0 +1,1 @@
+This is a practice project to get a better understanding of HTML and CSS. We will be deconstructing a webpage and attempting to rebuild it. 
